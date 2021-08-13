@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aadityaphoghat, Mechatronics Student!
 - 👀 I’m interested in building coding skills for Mechatronics, Robotics and Automation.
 - 🌱 I’m currently learning Python and +more
-- 💞️ I’m looking to collaborate on projects like ML and NLP, AI
+- 💞️ I’m looking to collaborate on projects like ML, NLp & AI
 - 📫 How to reach me ...<linkedIn>
 
 <!---
